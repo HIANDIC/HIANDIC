@@ -38,6 +38,5 @@
 | ------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Project - 202 | [Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and Relational Database Service using Terraform](https://github.com/HIANDIC/Terraform-Phonebook-Application-deployed-on-AWS) |
 | Project - 203 |                                         [Dockerization of Bookstore Web API (Python Flask) with MySQL ](https://github.com/HIANDIC/dockerization-bookstore-api-on-python-flask-mysql)                                          |
-
-| Project - 205 | [Docker Swarm Deployment of Phonebook Application (Python Flask) with MySQL ](https://github.com/HIANDIC/docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql-Terraform) |
-| Project - 206 | [Microservice Architecture for Phonebook Web Application (Python Flask) with MySQL using Kubernetes ](https://github.com/HIANDIC/Kubernetes-Microservice-Phonebook) |
+| Project - 205 |                       [Docker Swarm Deployment of Phonebook Application (Python Flask) with MySQL ](https://github.com/HIANDIC/docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql-Terraform)                       |
+| Project - 206 |                              [Microservice Architecture for Phonebook Web Application (Python Flask) with MySQL using Kubernetes ](https://github.com/HIANDIC/Kubernetes-Microservice-Phonebook)                               |
