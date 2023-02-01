@@ -36,7 +36,7 @@
 
 | Name          |                                                                                                            Description                                                                                                             |
 | ------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Project - 101 |                                           [Backup, User and Group Management, String Manipulation with Linux Commands and Bash Scripting](https://github.com/HIANDIC/Linux-Project.git)                                            |
+| Project - 201 |                                           [Backup, User and Group Management, String Manipulation with Linux Commands and Bash Scripting](https://github.com/HIANDIC/Linux-Project.git)                                            |
 | Project - 202 | [Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and Relational Database Service using Terraform](https://github.com/HIANDIC/Terraform-Phonebook-Application-deployed-on-AWS.git) |
 | Project - 203 |                                         [Dockerization of Bookstore Web API (Python Flask) with MySQL ](https://github.com/HIANDIC/dockerization-bookstore-api-on-python-flask-mysql.git)                                          |
 | Project - 205 |                       [Docker Swarm Deployment of Phonebook Application (Python Flask) with MySQL ](https://github.com/HIANDIC/docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql-Terraform.git)                       |
